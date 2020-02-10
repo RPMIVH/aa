@@ -1,9 +1,11 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 30
 =======
 10
 >>>>>>> parent of a21ae05... Update 新建文本文档.txt
+<<<<<<< HEAD
 =======
 10
 >>>>>>> parent of 3c43158... Update 新建文本文档.txt
+=======
+>>>>>>> parent of 737d000... Update 新建文本文档.txt
